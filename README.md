@@ -1,5 +1,5 @@
-# databases-final-project
-Advanced database for music curators and DJs
+# Advanced database for music curators and DJs
+
 
 
 Student Name: Zaid Khatib
